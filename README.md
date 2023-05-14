@@ -1,4 +1,4 @@
-🎲 Dice Game
+🎲 Dice Game :- https://main--tangerine-pithivier-d6c270.netlify.app/
 
 Game Rule
 1. Player having score equal or more than 100 wins the Game.🏆
